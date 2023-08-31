@@ -1,4 +1,3 @@
-# Credit-card-fraud-detection
 The given code classifies whether a transaction is fraudulent or not using the given models:
 1)Logistic Regression
 2)Naive Bayes
