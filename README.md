@@ -11,3 +11,6 @@ It uses the following libraries:
 1)Pandas
 2)Numpy
 3)Scikit-learn
+
+
+Link for the Dataset : https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download
